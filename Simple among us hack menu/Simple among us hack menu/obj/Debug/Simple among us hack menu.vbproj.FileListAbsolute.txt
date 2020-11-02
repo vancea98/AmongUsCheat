@@ -1,0 +1,12 @@
+C:\Users\mihai\source\repos\Simple among us hack menu\Simple among us hack menu\bin\Debug\Simple among us hack menu.exe.config
+C:\Users\mihai\source\repos\Simple among us hack menu\Simple among us hack menu\bin\Debug\Simple among us hack menu.exe
+C:\Users\mihai\source\repos\Simple among us hack menu\Simple among us hack menu\bin\Debug\Simple among us hack menu.pdb
+C:\Users\mihai\source\repos\Simple among us hack menu\Simple among us hack menu\bin\Debug\Simple among us hack menu.xml
+C:\Users\mihai\source\repos\Simple among us hack menu\Simple among us hack menu\obj\Debug\Simple among us hack menu.vbprojAssemblyReference.cache
+C:\Users\mihai\source\repos\Simple among us hack menu\Simple among us hack menu\obj\Debug\Simple_among_us_hack_menu.Form1.resources
+C:\Users\mihai\source\repos\Simple among us hack menu\Simple among us hack menu\obj\Debug\Simple_among_us_hack_menu.Resources.resources
+C:\Users\mihai\source\repos\Simple among us hack menu\Simple among us hack menu\obj\Debug\Simple among us hack menu.vbproj.GenerateResource.cache
+C:\Users\mihai\source\repos\Simple among us hack menu\Simple among us hack menu\obj\Debug\Simple among us hack menu.vbproj.CoreCompileInputs.cache
+C:\Users\mihai\source\repos\Simple among us hack menu\Simple among us hack menu\obj\Debug\Simple among us hack menu.exe
+C:\Users\mihai\source\repos\Simple among us hack menu\Simple among us hack menu\obj\Debug\Simple among us hack menu.xml
+C:\Users\mihai\source\repos\Simple among us hack menu\Simple among us hack menu\obj\Debug\Simple among us hack menu.pdb
